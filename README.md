@@ -1,7 +1,8 @@
 # cmd-enter
 
-Every textarea should let you submit comments by pressing cmd-enter or ctrl-enter.
-For every site that doesn't support it, a kitten weeps. Here's to fixing that.
+Every textarea should let you submit comments by pressing cmd-enter or
+ctrl-enter. For every site that doesn't support it, a kitten weeps. Here's
+to making less kittens weep.
 
 ## Requirements
 
@@ -16,9 +17,10 @@ For every site that doesn't support it, a kitten weeps. Here's to fixing that.
 
 ## Contributing
 
-Say for example reddit.com is giving you issues and you want to use cmd-enter to submit comments,
-just create a reddit.js.com file and add the JavaScript required to submit comments (example below).
-jQuery is available from dotjs regardless if the target site has it or not.
+Say for example reddit.com is giving you issues and you want to use cmd-enter
+to submit comments, just create a reddit.js.com file and add the JavaScript
+required to submit comments (example below). jQuery is available from dotjs
+regardless if the target site has it or not.
 
 Here is an example file:
 
