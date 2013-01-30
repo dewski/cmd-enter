@@ -11,6 +11,7 @@ For every site that doesn't support it, a kitten weeps. Here's to fixing that.
 
 - [dribbble](dribbble.com.js)
 - [reddit](reddit.com.js)
+- [hackernews](news.ycombinator.com.js)
 
 ## Contributing
 
