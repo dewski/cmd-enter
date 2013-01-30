@@ -17,12 +17,14 @@ to making less kittens weep.
 
 ## Contributing
 
-Say for example reddit.com is giving you issues and you want to use cmd-enter
+If reddit.com is giving you a bad time and not letting you use cmd-enter
 to submit comments, just create a reddit.js.com file and add the JavaScript
 required to submit comments (example below). jQuery is available from dotjs
-regardless if the target site has it or not.
+regardless if the target site has it or not. Some sites may require multiple
+event listeners if they format their textareas differently throughout their
+site.
 
-Here is an example file:
+Here is an example of adding cmd-enter to reddit.com:
 
 ```js
 $(document).on('keydown', '.usertext-edit textarea', function(e) {
