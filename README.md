@@ -10,8 +10,9 @@ For every site that doesn't support it, a kitten weeps. Here's to fixing that.
 ## Supported Sites
 
 - [dribbble](dribbble.com.js)
-- [reddit](reddit.com.js)
 - [hackernews](news.ycombinator.com.js)
+- [reddit](reddit.com.js)
+- [twitter](twitter.com.js)
 
 ## Contributing
 
