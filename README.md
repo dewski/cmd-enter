@@ -30,8 +30,8 @@ $(document).on('keydown', '.usertext-edit textarea', function(e) {
 
 Hints:
 
-- `.usertext-edit textarea` is the selector for all textareas we are listening.
-- `e.keyCode == 13` - 13 is the enter key.
+- `.usertext-edit textarea` is the selector for all textareas we are listening to.
+- `e.keyCode == 13` - 13 here is the enter key.
 - `(e.metaKey || e.ctrlKey)` is either the command key or ctrl key.
 
 ## Note on Patches/Pull Requests
