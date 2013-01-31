@@ -14,6 +14,7 @@ to making less kittens weep.
 - [hackernews](https://github.com/dewski/cmd-enter/blob/master/news.ycombinator.com.js)
 - [reddit](https://github.com/dewski/cmd-enter/blob/master/reddit.com.js)
 - [twitter](https://github.com/dewski/cmd-enter/blob/master/twitter.com.js)
+- [stackoverflow](https://github.com/dewski/cmd-enter/blob/master/stackoverflow.com.js)
 
 ## Contributing
 
